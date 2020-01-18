@@ -1,2 +1,3 @@
-# Simple-Demo-new
-This is for trtaining
+#Simple Exmaple repo
+
+This is just an example
